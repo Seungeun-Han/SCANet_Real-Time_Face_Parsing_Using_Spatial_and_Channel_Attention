@@ -116,6 +116,8 @@ Unfortunately, we are unable to provide the training code as we are selling this
 ## Test
 coming soon ..
 
+<br>
+<hr>
 
 ## Result
 We've got the state-of-the-art methods on the CelebAMask-HQ dataset, especially in small facial classes like necklaces and earrings.
