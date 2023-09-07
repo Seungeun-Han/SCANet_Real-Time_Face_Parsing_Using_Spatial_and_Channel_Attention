@@ -1,6 +1,8 @@
 # SCANet: Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention
 The official repository of [__"SCANet: Real-Time Face Parsing Using Spatial and Channel Attention"__](https://ieeexplore.ieee.org/document/10202537/metrics#metrics), presented at the 2023 20th International Conference on Ubiquitous Robots (UR).
 
+by Seung-eun Han, Ho-sub Yoon in UST_{1}, ETRI_{2}
+
 <br>
 <hr>
 
