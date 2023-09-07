@@ -20,22 +20,22 @@ We will be with you as quickly as possible!
 <br>
 <hr>
 
-## Visualization
-The comparison of our face parsing results to those of the previous state-of-the-art model, [DML CSR](https://arxiv.org/pdf/2203.14448.pdf). (a) is the original image, (b) is the ground-truth of the corresponding image, (c) is the result of DML CSR, and (d) is result of our models. Our approach effectively enables more detailed segmentation of rare facial components, particularly in the case of necklaces.
+## ✨ Application ✨
+We have developed a Face Parsing network that operates in __real-time__ on desktop and Mobile devices.
 
-![10202537-fig-2-source-small](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/b7537719-26d8-4669-b990-e8303cbc0ed6)
+### 🖥 DeskTop
+coming soon ..
+
+### 📱 Moblie(Android) Devices
+coming soon ..
 
 <br>
 <hr>
 
-## ✨ Application ✨
-We have developed a Face Parsing network that operates in __real-time__ on desktop and Android devices.
+## Visualization
+The comparison of our face parsing results to those of the previous state-of-the-art model, [DML CSR](https://arxiv.org/pdf/2203.14448.pdf). (a) is the original image, (b) is the ground-truth of the corresponding image, (c) is the result of DML CSR, and (d) is result of our models. Our approach effectively enables more detailed segmentation of rare facial components, particularly in the case of necklaces.
 
-### DeskTop
-coming soon ..
-
-### Android
-coming soon ..
+![10202537-fig-2-source-small](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/b7537719-26d8-4669-b990-e8303cbc0ed6)
 
 <br>
 <hr>
