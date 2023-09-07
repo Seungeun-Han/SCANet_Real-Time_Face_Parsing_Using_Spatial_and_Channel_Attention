@@ -1,8 +1,13 @@
 # SCANet: Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention
-The official repository of __"SCANet: Real-Time Face Parsing Using Spatial and Channel Attention"__, presented at the 2023 UR (Ubiquitous Robotics).
+The official repository of __"SCANet: Real-Time Face Parsing Using Spatial and Channel Attention"__, presented at the 2023 20th International Conference on Ubiquitous Robots (UR).
 
 [Paper](https://ieeexplore.ieee.org/document/10202537/metrics#metrics)
 
+<br>
+<hr>
+
+## Abstract
+This paper presents a real-time face parsing method that is efficient and robust to small facial components. The proposed approach utilizes two separate attention networks, namely the Spatial and Channel Attention Networks (SCANet), to integrate local features with global dependencies and focus on the most critical contextual features. Specifically, the Spatial attention module (SAM) captures the spatial relationships between different facial features, while the Channel attention module (CAM) identifies important features within each channel of the feature map, such as skin texture or eye color. Moreover, an edge detection branch, which helps differentiate edge and non-edge pixels, is added to improve segmentation precision along edges. To address class imbalance issues, which arise from limited data on accessories such as necklaces and earrings, we utilize a weighted cross-entropy loss function that assigns higher weights to rare classes. The proposed method outperforms state-of-the-art methods on the CelebAMask-HQ dataset, especially in small facial classes like necklaces and earrings. Additionally, the model is designed to operate in real-time, making it a promising solution for various face recognition and analysis applications.
 
 <br>
 
@@ -11,7 +16,66 @@ The official repository of __"SCANet: Real-Time Face Parsing Using Spatial and C
 <br>
 <hr>
 
+## Dataset
+### CelebAMask-HQ
 
+You can download this dataset at [here](https://github.com/switchablenorms/CelebAMask-HQ).
+
+And make that folder construct as below:
+
+```
+./CelebAMask
+    |---test
+    |---train
+        |---images
+            |---00000.jpg
+            |---00001.jpg
+        |---labels
+            |---00000.png
+            |---00001.png
+        |---edges
+            |---00000.png
+            |---00001.png
+    |---valid
+    |---label_names.txt
+    |---test_list.txt
+    |---train_list.txt
+        |---'images/00000.jpg labels/00000.png'
+        |---'images/00001.jpg labels/00001.png'
+    |---valid_list.txt
+```
+
+You can make train/valid/test_list.txt file through [this](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing/blob/main/Write_TXT_List.py) code.
+
+<br>
+<hr>
+
+## Pre-Processing
+### 1. Make Label Images
+
+You can make labels of CelebAMask-HQ Dataset through [this](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing/blob/main/make_groundtruth_fast.py) code.
+And you have to change below "Path".
+
+```
+IMAGE_PATH = '$Your Data path$/CelebAMask-HQ/CelebA-HQ-img/'
+ANNOTATIOM_PATH = '$Your Data path$/CelebAMask-HQ/CelebAMask-HQ-mask-anno_acc'
+SAVE_PATH = "$The path where you want to save$"
+INPUT_SIZE = $input size$
+```
+
+### 2. Make Edge Images
+
+You can make edges of CelebAMask-HQ Dataset through [this](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing/blob/main/generate_edges_agrnet_2.py) code.
+And you have to change below "Path".
+
+```
+generate_edge("$Your Label Path$", "The path where you want to save")
+```
+
+And the other extra pre-processing codes are [here](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing).
+
+<br>
+<hr>
 
 ## Citation
 ```
