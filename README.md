@@ -74,6 +74,12 @@ generate_edge("$Your Label Path$", "The path where you want to save")
 
 And the other extra pre-processing codes are [here](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing).
 
+### Example
+
+<img width="363" alt="2" src="https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/c724f802-d1b1-4865-bfa0-db6db7433e45">
+
+The labels and edge images seen here have been multiplied by 10 and 255, respectively, for easier viewing.
+
 <br>
 <hr>
 
