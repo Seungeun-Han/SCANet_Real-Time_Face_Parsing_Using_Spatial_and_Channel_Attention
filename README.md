@@ -107,7 +107,7 @@ The labels and edge images seen here have been multiplied by 10 and 255, respect
 <br>
 <hr>
 
-## Usage
+## Train
 Unfortunately, we are unable to provide the training code as we are selling this program for commercial purposes. If you are interested, please contact us at hse@etri.re.kr.
 
 <br>
