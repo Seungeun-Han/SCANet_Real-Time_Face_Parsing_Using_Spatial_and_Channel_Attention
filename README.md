@@ -14,15 +14,26 @@ This paper presents a real-time face parsing method that is efficient and robust
 <br>
 <hr>
 
+## ✨ Demo coming soon! We will be with you as quickly as possible! ✨
+
+<br>
+<hr>
+
 ## Visualization
 
+![10202537-fig-2-source-small](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/b7537719-26d8-4669-b990-e8303cbc0ed6)
 
 <br>
 <hr>
 
 ## ✨ Application ✨
-유리는 Real-Time으로 동작하는 Face Parsing 네트워크를 개발하였다. 그러므로 데스크탑, 
+We have developed a Face Parsing network that operates in __real-time__ on desktop and Android devices.
 
+### DeskTop
+coming soon ..
+
+### Android
+coming soon ..
 
 <br>
 <hr>
