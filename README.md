@@ -16,6 +16,19 @@ This paper presents a real-time face parsing method that is efficient and robust
 <br>
 <hr>
 
+## Visualization
+
+
+<br>
+<hr>
+
+## ✨ Application ✨
+유리는 Real-Time으로 동작하는 Face Parsing 네트워크를 개발하였다. 그러므로 데스크탑, 
+
+
+<br>
+<hr>
+
 ## Dataset
 ### CelebAMask-HQ
 
@@ -79,6 +92,14 @@ And the other extra pre-processing codes are [here](https://github.com/Seungeun-
 <img width="363" alt="2" src="https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/c724f802-d1b1-4865-bfa0-db6db7433e45">
 
 The labels and edge images seen here have been multiplied by 10 and 255, respectively, for easier viewing.
+
+<br>
+<hr>
+
+## Result
+We've got the state-of-the-art methods on the CelebAMask-HQ dataset, especially in small facial classes like necklaces and earrings.
+
+![10202537-table-1-source-large](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/24042146-1b9b-452a-aec5-9d24668b7a4a)
 
 <br>
 <hr>
