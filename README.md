@@ -23,10 +23,10 @@ We will be with you as quickly as possible!
 ## ✨ Application ✨
 We have developed a Face Parsing network that operates in __real-time__ on desktop and Mobile devices.
 
-### 🖥 DeskTop
+### On DeskTop 🖥 
 coming soon ..
 
-### 📱 Moblie(Android) Devices
+### On Moblie(Android) Device 📱 
 coming soon ..
 
 <br>
