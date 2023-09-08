@@ -18,8 +18,6 @@ This paper presents a real-time face parsing method that is efficient and robust
 
 ## ✨ Demo coming soon! ✨
 
-![Uploading face_parsing_Demo.gif…]()
-
 
 We will be with you as quickly as possible! 
  
