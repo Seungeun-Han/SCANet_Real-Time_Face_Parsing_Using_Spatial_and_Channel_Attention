@@ -34,6 +34,9 @@ coming soon ..
 ### On Moblie(Android) Device 📱 
 coming soon ..
 
+### 🆕 Image Inpainting 🆕
+coming soon ..
+
 <br>
 <hr>
 
