@@ -15,6 +15,7 @@
 
 ## Pretrained Model
 onnx.
+https://drive.google.com/file/d/1vhQw03J8YyxCAi3JMquOY46yMSsjQNJ1/view?usp=sharing
 
 <br>
 <hr>
