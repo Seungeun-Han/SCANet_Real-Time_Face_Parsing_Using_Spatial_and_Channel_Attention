@@ -19,6 +19,8 @@ You can download the pretrained __onnx__ model through this link: [Google Drive]
 Access request is  required.
 We do not permit the use of this model for commercial purposes.
 
+Once you have downloaded the model, please place it in the ```./onnx/best_256.onnx``` path.
+
 <br>
 <hr>
 
