@@ -110,18 +110,6 @@ The labels and edge images seen here have been multiplied by 10 and 255, respect
 <br>
 <hr>
 
-## Train
-Unfortunately, we are unable to provide the training code as we are selling this program for commercial purposes. If you are interested, please contact us at hse@etri.re.kr.
-
-<br>
-<hr>
-
-## Test
-coming soon ..
-
-<br>
-<hr>
-
 ## Result
 We've got the state-of-the-art methods on the CelebAMask-HQ dataset, especially in small facial classes like necklaces and earrings.
 
