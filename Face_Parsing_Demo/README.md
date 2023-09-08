@@ -1,5 +1,7 @@
 # Face Parsing Demo
 
+![Face-Parsing-Demo-2023-09-08-09-28-53](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/a05cf0c4-ffd3-459c-9b81-559140face7e)
+
 <br>
 <hr>
 
