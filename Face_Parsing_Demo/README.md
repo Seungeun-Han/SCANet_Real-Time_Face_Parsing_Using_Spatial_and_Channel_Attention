@@ -1,1 +1,1 @@
-# Face Parsin Demo
+# Face Parsing Demo
