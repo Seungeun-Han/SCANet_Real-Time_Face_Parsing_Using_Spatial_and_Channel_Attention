@@ -14,8 +14,10 @@
 <hr>
 
 ## Pretrained Model
-onnx.
-https://drive.google.com/file/d/1vhQw03J8YyxCAi3JMquOY46yMSsjQNJ1/view?usp=sharing
+You can download the pretrained onnx model through this link: [Google Drive](https://drive.google.com/file/d/1vhQw03J8YyxCAi3JMquOY46yMSsjQNJ1/view?usp=sharing). 
+
+Access request is  required.
+We do not permit the use of this model for commercial purposes.
 
 <br>
 <hr>
