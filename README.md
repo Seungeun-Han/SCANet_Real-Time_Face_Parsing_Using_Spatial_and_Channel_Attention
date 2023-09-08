@@ -17,6 +17,9 @@ This paper presents a real-time face parsing method that is efficient and robust
 <hr>
 
 ## ✨ Demo coming soon! ✨
+
+![Uploading ezgif.com-video-to-gif (1).gif…]()
+
 We will be with you as quickly as possible! 
  
 <br>
