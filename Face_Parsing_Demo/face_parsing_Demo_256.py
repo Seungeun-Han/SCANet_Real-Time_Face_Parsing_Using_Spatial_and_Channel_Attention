@@ -83,7 +83,7 @@ class Ui_MainWindow(object):
         image_trans = image_trans.unsqueeze(0)
         # print(image_trans.shape)  # torch.Size([1, 3, 256, 256])
 
-        ort_session = onnxruntime.InferenceSession("./onnx/best_CAECAM_256_bn_for_test.onnx", providers=['CUDAExecutionProvider', 'CPUExecutionProvider'])
+        ort_session = onnxruntime.InferenceSession("./onnx/best_256.onnx", providers=['CUDAExecutionProvider', 'CPUExecutionProvider'])
 
         interp = torch.nn.Upsample(size=(256, 256), mode='bilinear', align_corners=True)
 
