@@ -20,7 +20,7 @@ This paper presents a real-time face parsing method that is efficient and robust
 
 ![Face-Parsing-Demo-2023-09-08-09-28-53](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/66f8e28f-80ad-47cc-96f3-182a56b2c29d)
 
-https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/tree/main/Face_Parsing_Demo
+[Face_Parsing_Demo](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/tree/main/Face_Parsing_Demo)
  
 <br>
 <hr>
