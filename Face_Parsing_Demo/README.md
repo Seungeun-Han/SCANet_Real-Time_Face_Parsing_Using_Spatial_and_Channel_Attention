@@ -25,3 +25,5 @@ Once you have downloaded the model, please place it in the ```./onnx/best_256.on
 <hr>
 
 ## How to use
+
+- run ```face_parsing_Demo_256.py```
