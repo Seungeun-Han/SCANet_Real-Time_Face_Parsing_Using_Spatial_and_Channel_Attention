@@ -34,8 +34,9 @@ coming soon ..
 ### On Moblie(Android) Device 📱 
 coming soon ..
 
-### 🆕 Image Inpainting 🆕
-coming soon ..
+### 🆕 Face Reconstruction 🆕
+
+[Face Reconstruction](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting)
 
 <br>
 <hr>
