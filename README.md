@@ -37,6 +37,9 @@ from WebCam
 ### On Moblie(Android) Device 📱 
 coming soon ..
 
+### 🤩 Make Up Simulation 🤩
+coming soon ..
+
 ### 🆕 Face Reconstruction 🆕
 
 
