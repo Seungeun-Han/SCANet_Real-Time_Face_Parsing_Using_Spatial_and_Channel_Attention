@@ -38,7 +38,9 @@ from WebCam
 coming soon ..
 
 ### 🤩 Make Up Simulation 🤩
-coming soon ..
+
+![ezgif com-video-to-gif (5)](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/d5199fce-6b72-4e11-9a50-4453b5305ad4)
+
 
 ### 🆕 Face Reconstruction 🆕
 
