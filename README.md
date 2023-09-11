@@ -1,4 +1,4 @@
-# SCANet: Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention
+![ezgif com-video-to-gif (4)](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/651065a3-2e3d-4f8a-94f5-d5b50f29bf97)# SCANet: Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention
 The official repository of [__"SCANet: Real-Time Face Parsing Using Spatial and Channel Attention"__](https://ieeexplore.ieee.org/document/10202537/metrics#metrics), presented at the 2023 20th International Conference on Ubiquitous Robots (UR).
 
 by Seung-eun Han, Ho-sub Yoon in [UST(University of Science & Technology)](https://www.ust.ac.kr/kor/), [ETRI(Electronics and Telecommunications Research Institute)](https://www.etri.re.kr/kor/main/main.etri), Korea.
@@ -29,12 +29,16 @@ This paper presents a real-time face parsing method that is efficient and robust
 We have developed a Face Parsing network that operates in __real-time__ on desktop and Mobile devices.
 
 ### On DeskTop 🖥 
-coming soon ..
+from WebCam
+
+![ezgif com-video-to-gif (4)](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention/assets/101082685/06220109-19c5-44fa-921e-bd976d9e2fef)
+
 
 ### On Moblie(Android) Device 📱 
 coming soon ..
 
 ### 🆕 Face Reconstruction 🆕
+
 
 [Face Reconstruction](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting)
 
